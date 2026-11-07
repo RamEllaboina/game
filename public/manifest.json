@@ -1,0 +1,19 @@
+{
+  "name": "Flappy Modern",
+  "short_name": "FlappyModern",
+  "description": "Modern arcade flying game with full-screen video backgrounds",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060814",
+  "theme_color": "#060814",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪶</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
